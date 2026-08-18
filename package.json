@@ -36,7 +36,7 @@
     "@actions/io": "^3.0.2"
   },
   "devDependencies": {
-    "@tsconfig/node20": "^20.1.9",
+    "@tsconfig/node20": "^20.1.10",
     "@types/node": "^26.2.0",
     "@vercel/ncc": "^0.45.0",
     "typescript": "^7.0.2"
